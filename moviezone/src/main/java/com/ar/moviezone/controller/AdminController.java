@@ -17,6 +17,8 @@ import com.ar.moviezone.service.AdminService;
 @RestController
 @RequestMapping("/admin")
 public class AdminController {
+	
+	// this comment is for dummy purposes
 
 	@Autowired
 	private AdminService adminService;
